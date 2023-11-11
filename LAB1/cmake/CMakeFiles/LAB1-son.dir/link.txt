@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/LAB1-son.dir/src/son.c.o CMakeFiles/LAB1-son.dir/home/tng00/OS/common/sub.c.o -o LAB1-son 

@@ -1,0 +1,4 @@
+/home/tng00/OS/LAB1/cmake/CMakeFiles/LAB1-main.dir
+/home/tng00/OS/LAB1/cmake/CMakeFiles/LAB1-son.dir
+/home/tng00/OS/LAB1/cmake/CMakeFiles/edit_cache.dir
+/home/tng00/OS/LAB1/cmake/CMakeFiles/rebuild_cache.dir

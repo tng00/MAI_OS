@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/LAB1-main.dir/src/main.c.o CMakeFiles/LAB1-main.dir/home/tng00/OS/common/sub.c.o -o LAB1-main 
